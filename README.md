@@ -1,3 +1,11 @@
+# A to do app using React, Redux
+
+Website includes main functions: View more, edit and delete todo lists.
+![image](https://github.com/kimbactran/todo-app/assets/83815342/122c0b60-c15e-4abe-8aa2-dfd43cc063b7)
+
+Video demo: https://youtu.be/A0rbT-k6lc8
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
